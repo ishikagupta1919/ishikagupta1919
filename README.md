@@ -23,7 +23,6 @@ I'm Ishika Gupta, pursuing Bachelors in Technology in Electronics and Communicat
 - 👯 I’m looking to collaborate on any project or competition that will help me widen my horizon in the world of technology.
 - 💬 Ask me anything! I would be happy to have discussions on Coding Problems, Algorithms, Data Structures, Graphics, and Blockchain Technology or any up and coming tech stack.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishika-g-8653a3135/)
-- ⚡ Fun fact: 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagupta1919&label=Profile Views&color=blue&style=plastic" alt="ishikagupta1919" /> </p>
 
